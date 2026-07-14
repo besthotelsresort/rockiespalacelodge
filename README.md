@@ -1,0 +1,2 @@
+# rockiespalacelodge
+Static site: rockiespalacelodge
